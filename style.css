@@ -1,0 +1,14 @@
+#galeria {
+    display: flexbox;
+}
+
+.imagen {
+    width: 300px;
+    height: 200px;
+    border-radius: 5px;
+}
+
+.imagen:hover {
+    opacity: 0.5;
+    cursor: pointer;
+}
